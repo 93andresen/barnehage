@@ -23,3 +23,10 @@ also, this prompt should be saved to task.md in that repo.
 git init
 
 commit
+
+---
+
+then create a folder with 10 more files each with 10 alternatives with different focus same split for målgrupper
+
+then commit. always commit this file as well...
+
