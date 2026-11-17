@@ -86,29 +86,3 @@ Korte aktiviteter med tydelig voksenstøtte. Få regler, ingen konkurranse, konk
 
 **Eldre (4–5 år)**
 Aktiviteter som krever planlegging, forhandling og rollefordeling. Regler avtales før leken starter, og barna får mer ansvar for å gjennomføre selv.
-
-## Prinsipper bak alle aktivitetene
-
-- **Ingen vinner alene.** Resultatet er alltid avhengig av at flere bidrar.
-- **Alle har en rolle.** Også den som er sjenert eller har et annet morsmål, får en tydelig oppgave.
-- **Den voksne deler bevisst.** Par og lag settes sammen på tvers av hvem som vanligvis leker sammen.
-- **Ingen tidtaking eller poeng for enkeltbarn.** Fremgang måles i deltakelse, ikke i resultat.
-- **Det er lov å si nei.** Særlig ved kroppskontakt skal barna kunne velge en annen hilsen.
-- **Det er lov å se på.** Et barn som ikke vil delta, får sitte ved siden av og bli spurt igjen senere – ikke presset.
-
-## Legge til nye aktiviteter
-
-Bruk samme oppsett, og hold 5/5-fordelingen mellom yngre og eldre i hver fil:
-
-```markdown
-### N. Navn på aktiviteten
-**Mål:** Hva barna skal øve på.
-**Materialer:** Det dere trenger.
-**Slik gjør dere:** Steg for steg, kort.
-**Samarbeid og inkludering:** Hvorfor aktiviteten krever flere, og hvordan alle får plass.
-**Tips:** Variasjon eller praktisk råd.
-```
-
-## Bakgrunn
-
-[`task.md`](task.md) inneholder oppdragsbeskrivelsen repoet ble laget ut fra.
