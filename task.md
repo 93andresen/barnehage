@@ -32,5 +32,31 @@ then commit. always commit this file as well...
 
 ---
 
+C:\_\code\repo\barnehage\task.md
+
+---
+
+wtf the readme file ARE MY INSTRUCTIONS DESCRIBING THE README FILE!?!?!?
+
+did you take it LITERALLY or wtf???
+
+---
+
+push
+
+---
+
+det skal være 2 fokuser for hver 10 leker. jeg sa hvilke 2 fokuser som skulle være på fremsiden på readme
+
+---
+
+commit
+
+---
+
 det er profesjonelt. det er leker sombarna i barnehagen faktisk kommer til å måtte leke så tenk nøye gjennom at det faktisk er gode leker som faktisk er bra for narnene, du trenger ikke å "få det til å se profesjonelt ut" men du forstår poenget?
+
+---
+
+fill in the rest of my prompts in C:\_\code\repo\barnehage\task.md that I have forgotten to paste there
 
