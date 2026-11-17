@@ -52,11 +52,11 @@ Barna skal bruke hele kroppen sammen med andre. Aktivitetenes utforming gjør at
 ## Eldre (4–5 år)
 
 ### 6. Hinderløype i par
-**Mål:** Hjelpe og bli hjulpet.
+**Mål:** Vente på hverandre og hjelpe.
 **Materialer:** Benk, kjegler, tau, matter, bøtte.
-**Slik gjør dere:** To og to går løypa sammen og holder hender hele veien. De skal klatre over, krype under og hoppe ned – uten å slippe.
-**Samarbeid og inkludering:** Paret må vente på hverandre. Den som er sterkest må tilpasse seg.
-**Tips:** Bytt par midtveis, slik at alle prøver flere.
+**Slik gjør dere:** To og to går løypa sammen. De holder hender på flat grunn, men slipper når de skal over benken – der går én om gangen mens den andre står klar og tar imot. Paret er ferdig når begge har vært gjennom.
+**Samarbeid og inkludering:** Paret må vente på hverandre, og den som er sterkest må tilpasse seg den andre.
+**Tips:** Hold hender bare der det er flatt. Klatring og balanse gjøres én om gangen med en voksen i nærheten. Bytt par midtveis.
 
 ### 7. Flytt «steinen»
 **Mål:** Bruke felles kraft.
@@ -84,4 +84,4 @@ Barna skal bruke hele kroppen sammen med andre. Aktivitetenes utforming gjør at
 **Materialer:** Et tau på gulvet, eventuelt en benk.
 **Slik gjør dere:** Alle skal stå på tauet samtidig uten å tråkke utenfor. Gruppen må finne ut hvordan de fordeler seg.
 **Samarbeid og inkludering:** Løsningen krever at de snakker sammen og gir plass til hverandre.
-**Tips:** Varier med å lukke øynene når de står stødig.
+**Tips:** Maks 5–6 barn om gangen – flere får ikke plass på tauet, og da blir det dytting i stedet for balanse. Varier med å lukke øynene når de står stødig.

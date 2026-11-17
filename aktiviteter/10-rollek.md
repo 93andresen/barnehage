@@ -63,7 +63,7 @@ Late som sammen. Rollelek krever at barna blir enige om en felles virkelighet, f
 **Materialer:** Rekvisitter, enkle kostymer.
 **Slik gjør dere:** Gruppen lager en liten forestilling. Rollene trekkes, ikke velges, slik at alle får prøve noe nytt.
 **Samarbeid og inkludering:** Trekning gjør fordelingen rettferdig og ufarlig.
-**Tips:** Vis forestillingen for en annen gruppe.
+**Tips:** Det er lov å bytte rolle med en voksen hvis rollen blir for skummel. Vis forestillingen for en annen gruppe.
 
 ### 8. Bygg en verden
 **Mål:** Skape en felles fantasiverden.

@@ -26,12 +26,12 @@ Alle skal oppleve å høre til i gruppa. Aktivitetene er laget slik at ingen kan
 **Samarbeid og inkludering:** Arket blir ikke ferdig uten alle. Barna ser navnene sine sammen.
 **Tips:** Heng arket lavt nok til at barna kan peke på sitt eget merke.
 
-### 3. Tom stol er ikke lov
-**Mål:** Oppdage når noen står utenfor.
+### 3. Alle skal ha en plass
+**Mål:** Oppdage at det går an å lage plass til alle.
 **Materialer:** Stoler i ring, musikk.
-**Slik gjør dere:** Alle sitter på stoler, det er én stol for lite. Når musikken stopper skal alle finne en stol – men ingen får sitte alene, så barna må dele stol eller sitte på fang.
-**Samarbeid og inkludering:** Ingen blir stående utenfor, fordi løsningen er å gjøre plass.
-**Tips:** Den voksne kan si «hvem kan vi lage plass til?» når det blir trangt.
+**Slik gjør dere:** Alle sitter på hver sin stol. Hver gang musikken stopper, tar den voksne bort én stol, og barna må finne ny plass – men alle skal fortsatt sitte. Løsningen er å sitte tettere, ikke å sitte på fang.
+**Samarbeid og inkludering:** Ingen blir stående utenfor. Barna ser at plassen blir til når noen flytter seg.
+**Tips:** Ta bort én stol per runde og stopp når det blir for trangt. 6–8 barn er nok – med flere blir det bare kaos, ikke samarbeid.
 
 ### 4. Gi bort en kloss
 **Mål:** Øve på å dele.
@@ -51,12 +51,12 @@ Alle skal oppleve å høre til i gruppa. Aktivitetene er laget slik at ingen kan
 
 ## Eldre (4–5 år)
 
-### 6. To sannheter om meg
-**Mål:** Bli kjent og bli lyttet til.
-**Materialer:** Ingen.
-**Slik gjør dere:** Hvert barn sier to ting om seg selv (jeg liker katter, jeg har en blå jakke). De andre skal gjette hvilken de vil vite mer om, og barnet forteller.
-**Samarbeid og inkludering:** Alle får taletid, og de andre øver på å lytte uten å avbryte.
-**Tips:** Den voksne modellerer først med egne eksempler.
+### 6. Alle som liker ...
+**Mål:** Oppdage likheter på tvers av gruppa.
+**Materialer:** Stoler i ring, én stol for lite.
+**Slik gjør dere:** Alle sitter i ring, én står i midten. Den i midten sier noe den liker, for eksempel «alle som liker pannekaker». Alle som liker det samme reiser seg og bytter plass. Den som blir stående uten stol, er neste i midten.
+**Samarbeid og inkludering:** Barna oppdager at de har ting til felles med barn de ikke leker med til vanlig.
+**Tips:** Stå i midten selv de første rundene, så barna ser hvordan det gjøres. Pass på at ingen blir stående i midten mange ganger på rad – bytt aktivt.
 
 ### 7. Bygg en by sammen
 **Mål:** Fordele roller i et felles prosjekt.
@@ -65,12 +65,12 @@ Alle skal oppleve å høre til i gruppa. Aktivitetene er laget slik at ingen kan
 **Samarbeid og inkludering:** Alle har en rolle som er nødvendig for helheten. Den voksne hjelper hvis noen ikke får en rolle.
 **Tips:** Ta bilde av byen og heng opp med navnene til alle som bygde.
 
-### 8. Hemmelig venn
-**Mål:** Se og anerkjenne hverandre.
-**Materialer:** Navnelapper, en boks.
-**Slik gjør dere:** Hvert barn trekker et navn. I løpet av dagen skal de gjøre én hyggelig ting for den hemmelige vennen (hente vann, si noe fint, hjelpe i garderoben). Til slutt gjettes det.
-**Samarbeid og inkludering:** Alle blir sett av noen, også de som er lite synlige i gruppa.
-**Tips:** Den voksne passer på at ingen blir glemt, og at alle får en hilsen.
+### 8. Makker for en dag
+**Mål:** Se og hjelpe en bestemt person.
+**Materialer:** Navnelapper eller bilder av barna.
+**Slik gjør dere:** Den voksne setter sammen par på tvers av hvem som pleier å leke sammen. Makkene har tre oppgaver i løpet av dagen: hente hverandre til samling, hjelpe hverandre i garderoben, og sitte sammen ved måltidet.
+**Samarbeid og inkludering:** Det er åpent og synlig hvem som hører sammen, så ingen blir glemt. Den voksne kan følge opp parene underveis.
+**Tips:** Bytt makker hver dag i en uke, så alle har vært makker med flere. Unngå hemmelig venn – 4–5-åringer glemmer og røper, og noen blir alltid glemt.
 
 ### 9. Stafett der alle teller
 **Mål:** Erfare at laget trenger alle.

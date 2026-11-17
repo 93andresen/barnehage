@@ -24,7 +24,7 @@ Skape noe sammen med hendene. Materialene deles, ideene lånes og resultatet bli
 **Materialer:** Play-doh eller hjemmelaget deig, former, rulle.
 **Slik gjør dere:** Én stor deig deles i like store biter. Alle lager noe, og til slutt setter dere alt sammen til en «by».
 **Samarbeid og inkludering:** Delingen gjøres synlig og rettferdig, og alle bidrag får plass i byen.
-**Tips:** La barna selv dele deigen med en kniv – det øver rettferdighet.
+**Tips:** La barna dele med en smørkniv i plast, med en voksen ved bordet. Det øver rettferdighet, og det er trygt.
 
 ### 3. Maling med mange hender
 **Mål:** Dele maling og plass.
@@ -38,7 +38,7 @@ Skape noe sammen med hendene. Materialene deles, ideene lånes og resultatet bli
 **Materialer:** Store perler, snor, en skål i midten.
 **Slik gjør dere:** Alle perler på samme snor etter tur. Den voksne holder snoren, barna trer på.
 **Samarbeid og inkludering:** Resultatet er ett felles armbånd eller en kjedeting til dukken.
-**Tips:** Si fargenavn høyt når perlen tres på.
+**Tips:** Bruk store treperler eller makaroni. Vanlige perler er for små for 3-åringer – de går rett i munnen. Si fargenavn høyt når perlen tres på.
 
 ### 5. Bygge med esker
 **Mål:** Skape noe stort sammen.
@@ -65,12 +65,12 @@ Skape noe sammen med hendene. Materialene deles, ideene lånes og resultatet bli
 **Samarbeid og inkludering:** Skissen gjør at alle ser hvordan delene henger sammen.
 **Tips:** La gruppen presentere figuren for de andre barna.
 
-### 8. Origami-par
-**Mål:** Hjelpe hverandre gjennom vanskelige steg.
-**Materialer:** Kvadratiske ark.
-**Slik gjør dere:** To og to bretter samme figur. Den som får til et steg, viser det til den andre.
-**Samarbeid og inkludering:** Det er lov å hjelpe, og det er lov å spørre.
-**Tips:** Velg enkle figurer: båt, hund, fly.
+### 8. Papirfly i par
+**Mål:** Hjelpe hverandre gjennom steg som er vanskelige.
+**Materialer:** A4-ark, fargestifter.
+**Slik gjør dere:** To og to bretter hvert sitt papirfly, steg for steg etter den voksne. Den som får til et steg, viser det til makkeren. Til slutt dekorerer de flyene og flyr dem sammen.
+**Samarbeid og inkludering:** Det er lov å hjelpe, og det er lov å spørre. Begge får et fly som flyr.
+**Tips:** Brett ett steg om gangen og vent til alle er med. Ekte origami er for finmotorisk krevende for 4–5-åringer – et papirfly er nok.
 
 ### 9. Veve sammen
 **Mål:** Skaffe felles resultat over tid.

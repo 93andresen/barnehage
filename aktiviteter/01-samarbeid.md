@@ -84,4 +84,4 @@ Barna skal oppleve at de får til noe sammen som de ikke får til alene. Alle ak
 **Materialer:** Kjegler, benk, tau, en bøtte.
 **Slik gjør dere:** Lag på fire skal gjennom en hinderløype. Laget er ferdig når alle har vært gjennom, og siste mann gir high five til alle.
 **Samarbeid og inkludering:** Poenget er at alle fullfører, ikke hvem som er raskest. De som er ferdige heier på de som er igjen.
-**Tips:** Ingen tidtaking – mål bare at laget kommer i mål.
+**Tips:** Ingen tidtaking – mål bare at laget kommer i mål. Lag på 4–5 barn, og bytt lag etterpå, så ingen blir sittende fast på et «tapert» lag.

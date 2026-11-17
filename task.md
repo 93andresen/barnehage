@@ -30,3 +30,7 @@ then create a folder with 10 more files each with 10 alternatives with different
 
 then commit. always commit this file as well...
 
+---
+
+det er profesjonelt. det er leker sombarna i barnehagen faktisk kommer til å måtte leke så tenk nøye gjennom at det faktisk er gode leker som faktisk er bra for narnene, du trenger ikke å "få det til å se profesjonelt ut" men du forstår poenget?
+

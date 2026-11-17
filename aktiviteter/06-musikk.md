@@ -58,12 +58,12 @@ Gjøre lyd og musikk sammen. Ingen skal prestere alene – det er helheten som t
 **Samarbeid og inkludering:** Hver lyd er nødvendig, og alle må lytte for å treffe.
 **Tips:** Spill inn med nettbrett og lytt sammen etterpå.
 
-### 7. Rytmekanon
-**Mål:** Holde egen stemme i en gruppe.
+### 7. Rytme-ekko
+**Mål:** Lytte og svare med rytme.
 **Materialer:** Ingen.
-**Slik gjør dere:** Gruppen deles i to. Den ene gruppa starter en rytme, den andre kommer inn etter fire slag. Så bytter de.
-**Samarbeid og inkludering:** Krever at man holder sin egen del uten å bli forstyrret av den andre.
-**Tips:** Start med enkle rytmer: klapp-klapp-pause.
+**Slik gjør dere:** Den voksne klapper en kort rytme, og gruppa klapper den tilbake. Når det går bra, deles gruppa i to: den ene gruppa klapper, den andre er stille – så bytter de.
+**Samarbeid og inkludering:** Alle må lytte til den som klapper, og alle klapper samtidig. Ingen må prestere alene.
+**Tips:** Hold rytmene korte, to til fire slag. Ekte kanon, der gruppene klapper forskjøvet samtidig, er for vanskelig for 4–5-åringer.
 
 ### 8. Lag en sang sammen
 **Mål:** Bli enige om tekst og melodi.

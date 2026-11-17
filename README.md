@@ -53,8 +53,19 @@ barnehage/
 1. Velg kategori ut fra hva barnegruppa trenger akkurat nå.
 2. Velg aldersgruppe – hver fil har egen seksjon for yngre og eldre.
 3. Les **Mål** og **Materialer** først. Har dere ikke materialene, se om tipsene gir en erstatning.
-4. Juster antall barn og tid etter gruppa. Ingen av aktivitetene er avhengige av et bestemt antall.
+4. Sjekk antall barn. De fleste aktivitetene fungerer med 4–8 barn, og noen har et tak som står i tipsen.
 5. Bruk **Samarbeid og inkludering**-feltet som det du faktisk følger med på underveis – det er derfor aktiviteten finnes.
+
+## Forutsetninger
+
+Aktivitetene er skrevet for en vanlig barnehagehverdag, ikke for en perfekt dag.
+
+- **Antall barn:** 4–8 barn per aktivitet. Med hele avdelingen samtidig blir det for mange stemmer og for lite voksentid.
+- **Voksne:** Regn med én voksen per 6–8 barn. Aktiviteter der noen skal holde, måle eller skrive, trenger en voksen som ikke selv deltar i leken.
+- **Tid:** 10–20 minutter. Er aktiviteten ikke i gang etter fem minutter, er den sannsynligvis for vanskelig for gruppa.
+- **Aldersblanding:** Yngre og eldre kan gjøre samme aktivitet, men de yngste trenger kortere regler og mer håndholdt støtte.
+- **Når det ikke fungerer:** Avbryt uten å gjøre det til en sak. En aktivitet som ikke fungerer med denne gruppa i dag, kan fungere om en måned.
+- **Sikkerhet:** Klatring, balanse og vann gjøres med voksen i nærheten. Små perler og kniver er byttet ut eller merket i tipsen.
 
 ## Aldersinndeling
 
@@ -71,6 +82,7 @@ Aktiviteter som krever planlegging, forhandling og rollefordeling. Regler avtale
 - **Den voksne deler bevisst.** Par og lag settes sammen på tvers av hvem som vanligvis leker sammen.
 - **Ingen tidtaking eller poeng for enkeltbarn.** Fremgang måles i deltakelse, ikke i resultat.
 - **Det er lov å si nei.** Særlig ved kroppskontakt skal barna kunne velge en annen hilsen.
+- **Det er lov å se på.** Et barn som ikke vil delta, får sitte ved siden av og bli spurt igjen senere – ikke presset.
 
 ## Legge til nye aktiviteter
 

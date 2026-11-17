@@ -56,7 +56,7 @@ Oppleve naturen sammen. Aktivitetenes oppgaver er felles, slik at barna må sama
 **Materialer:** Steiner, pinner, gjørme, en bekk eller en vannpytt.
 **Slik gjør dere:** Gruppen skal stoppe eller lede vannet med steiner og gjørme. De må planlegge først og justere underveis.
 **Samarbeid og inkludering:** Krever at noen henter, noen bygger og noen tester.
-**Tips:** Spør: «hvorfor holdt det ikke?» når det raser.
+**Tips:** Ta med skift og votter, og gjør det på en dag uten frost – ellers får barna ikke bygget noe. Spør: «hvorfor holdt det ikke?» når det raser.
 
 ### 7. Naturbingo i par
 **Mål:** Løse oppgaver sammen.

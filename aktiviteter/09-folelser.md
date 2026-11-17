@@ -75,9 +75,9 @@ Kjenne igjen, sette ord på og håndtere følelser sammen. Aktivitetene gjør de
 ### 9. Vennskapsavtalen
 **Mål:** Bli enige om hvordan vi er mot hverandre.
 **Materialer:** Stort papir, fargestifter.
-**Slik gjør dere:** Gruppen lager fem regler for hvordan vi er mot hverandre, og alle skriver eller tegner under.
-**Samarbeid og inkludering:** Reglene gjelder alle, også de voksne.
-**Tips:** Heng avtalen synlig og vis til den når det trengs.
+**Slik gjør dere:** Gruppen lager tre regler for hvordan vi er mot hverandre – ikke flere, for da husker ingen dem. Den voksne skriver, barna tegner. Alle setter et fingeravtrykk eller en strek under.
+**Samarbeid og inkludering:** Reglene gjelder alle, også de voksne, og alle har vært med å lage dem.
+**Tips:** Ta fram avtalen når det har vært en konflikt, i stedet for å vise til regler som ikke står der.
 
 ### 10. Takk-runden
 **Mål:** Se andres bidrag.
