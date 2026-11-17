@@ -1,8 +1,12 @@
 # Natur og utelek
 
-**Fokus:** Oppleve naturen sammen. Aktivitetenes oppgaver er felles, slik at barna må samarbeide om å finne, bære og bygge.
+**Aktivitetstype:** Uteleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Oppleve naturen sammen. Aktivitetenes oppgaver er felles, slik at barna må samarbeide om å finne, bære og bygge.
 
 ---
 

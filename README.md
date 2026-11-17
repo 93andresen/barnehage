@@ -1,12 +1,15 @@
 # barnehage
 
-Aktivitetsbank for barnehage: 100 ferdig beskrevne leker og aktiviteter for barn i alderen 3–5 år, med samarbeid og inkludering som bærende prinsipp i hver eneste aktivitet.
+**Fokus: samarbeid og inkludering**
+
+Aktivitetsbank for barnehage: 100 ferdig beskrevne leker og aktiviteter for barn i alderen 3–5 år. Hver samling på 10 leker har de samme to fokusene: **samarbeid** og **inkludering**.
 
 Repoet er tenkt som et planleggingsverktøy for ansatte i barnehage – ikke som en teoribok. Hver aktivitet skal kunne leses i garderoben to minutter før den skal brukes.
 
 ## Innhold
 
 - **100 aktiviteter** fordelt på **10 kategorier** (10 aktiviteter per kategori).
+- Hver samling på 10 leker har **to fokus: samarbeid og inkludering**.
 - Hver kategori har **5 aktiviteter for yngre barn (3–4 år)** og **5 for eldre barn (4–5 år)**.
 - Hver aktivitet beskriver **mål**, **materialer**, **gjennomføring**, **hvordan den fremmer samarbeid og inkludering**, og et **tips**.
 - Alle aktivitetene er utformet slik at de ikke kan «vinnes» av ett barn alene.
@@ -32,7 +35,7 @@ barnehage/
 
 ## Kategorier
 
-| Fil | Fokus | Typisk bruk |
+| Fil | Aktivitetstype | Typisk bruk |
 | --- | --- | --- |
 | [01-samarbeid.md](aktiviteter/01-samarbeid.md) | Samarbeid | Når gruppa trenger å øve på å dele, vente og bli enige |
 | [02-inkludering.md](aktiviteter/02-inkludering.md) | Inkludering | Når noen står utenfor, eller ved nytt barn i gruppa |

@@ -1,8 +1,12 @@
 # Samarbeid
 
-**Fokus:** Barna skal oppleve at de får til noe sammen som de ikke får til alene. Alle aktivitetene krever at barna deler, venter på tur, hjelper hverandre og blir enige.
+**Aktivitetstype:** Samarbeidsleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Barna skal oppleve at de får til noe sammen som de ikke får til alene. Alle aktivitetene krever at barna deler, venter på tur, hjelper hverandre og blir enige.
 
 ---
 

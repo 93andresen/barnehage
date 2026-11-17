@@ -1,8 +1,12 @@
 # Musikk og rytme
 
-**Fokus:** Gjøre lyd og musikk sammen. Ingen skal prestere alene – det er helheten som teller, og alle kan delta uansett språk og motorikk.
+**Aktivitetstype:** Musikleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Gjøre lyd og musikk sammen. Ingen skal prestere alene – det er helheten som teller, og alle kan delta uansett språk og motorikk.
 
 ---
 

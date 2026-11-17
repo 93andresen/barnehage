@@ -1,8 +1,12 @@
 # Følelser og sosial kompetanse
 
-**Fokus:** Kjenne igjen, sette ord på og håndtere følelser sammen. Aktivitetene gjør det trygt å snakke om det som er vanskelig, og gir barna konkrete handlingsvalg.
+**Aktivitetstype:** Sosiale leker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Kjenne igjen, sette ord på og håndtere følelser sammen. Aktivitetene gjør det trygt å snakke om det som er vanskelig, og gir barna konkrete handlingsvalg.
 
 ---
 

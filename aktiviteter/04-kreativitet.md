@@ -1,8 +1,12 @@
 # Kreativitet og finmotorikk
 
-**Fokus:** Skape noe sammen med hendene. Materialene deles, ideene lånes og resultatet blir felles – slik at ingen sitter med «sin» ting alene.
+**Aktivitetstype:** Kreative leker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Skape noe sammen med hendene. Materialene deles, ideene lånes og resultatet blir felles – slik at ingen sitter med «sin» ting alene.
 
 ---
 

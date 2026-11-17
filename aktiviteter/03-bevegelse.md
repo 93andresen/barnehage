@@ -1,8 +1,12 @@
 # Bevegelse og grovmotorikk
 
-**Fokus:** Barna skal bruke hele kroppen sammen med andre. Aktivitetenes utforming gjør at barna må hjelpe, vente og tilpasse seg hverandre – ikke konkurrere.
+**Aktivitetstype:** Bevegelsesleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Barna skal bruke hele kroppen sammen med andre. Aktivitetenes utforming gjør at barna må hjelpe, vente og tilpasse seg hverandre – ikke konkurrere.
 
 ---
 

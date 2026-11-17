@@ -1,8 +1,12 @@
 # Språk og fortelling
 
-**Fokus:** Bruke språket sammen. Aktivitetene gir alle taletid, og gjør det trygt å snakke – også for barn som er stille eller har et annet morsmål.
+**Aktivitetstype:** Språkleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Bruke språket sammen. Aktivitetene gir alle taletid, og gjør det trygt å snakke – også for barn som er stille eller har et annet morsmål.
 
 ---
 

@@ -1,8 +1,12 @@
 # Matematikk og logikk
 
-**Fokus:** Utforske tall, former og mønstre sammen. Oppgavene løses i par eller gruppe, slik at barna resonnerer høyt og hjelper hverandre.
+**Aktivitetstype:** Matematikk- og logikkleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Utforske tall, former og mønstre sammen. Oppgavene løses i par eller gruppe, slik at barna resonnerer høyt og hjelper hverandre.
 
 ---
 

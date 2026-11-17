@@ -1,8 +1,12 @@
 # Inkludering
 
-**Fokus:** Alle skal oppleve å høre til i gruppa. Aktivitetene er laget slik at ingen kan «vinne» alene, og slik at den som er ny, sjenert eller har et annet morsmål får en naturlig plass.
+**Aktivitetstype:** Inkluderingsleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Alle skal oppleve å høre til i gruppa. Aktivitetene er laget slik at ingen kan «vinne» alene, og slik at den som er ny, sjenert eller har et annet morsmål får en naturlig plass.
 
 ---
 

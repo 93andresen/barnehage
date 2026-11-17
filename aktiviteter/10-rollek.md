@@ -1,8 +1,12 @@
 # Rollek og fantasi
 
-**Fokus:** Late som sammen. Rollelek krever at barna blir enige om en felles virkelighet, fordeler roller og slipper hverandre inn i leken.
+**Aktivitetstype:** Rolleleker
+
+**Fokus:** Samarbeid og inkludering
 
 **Målgruppe:** 10 aktiviteter – 5 for yngre (3–4 år) og 5 for eldre (4–5 år).
+
+Late som sammen. Rollelek krever at barna blir enige om en felles virkelighet, fordeler roller og slipper hverandre inn i leken.
 
 ---
 
