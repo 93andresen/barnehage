@@ -24,7 +24,7 @@ Alle settene oppfyller de samme kravene:
 - 5 for yngre (3–4 år) og 5 for eldre (4–5 år)
 - to fokus: **samarbeid** og **inkludering**
 
-Det som skiller settene er **aktivitetstypen**, ikke fokusene. Filnavnet viser aktivitetstypen for settet, og de to fokusene er de samme i alle ti settene.
+Det som skiller settene er **aktivitetstypen**. Filnavnet viser både de to fokusene og aktivitetstypen, for eksempel `03-samarbeid-inkludering-bevegelsesleker.md`.
 
 ## Struktur
 
@@ -33,32 +33,32 @@ barnehage/
 ├── README.md
 ├── task.md              # opprinnelig oppdragsbeskrivelse
 └── aktiviteter/
-    ├── 01-samarbeid.md
-    ├── 02-inkludering.md
-    ├── 03-bevegelse.md
-    ├── 04-kreativitet.md
-    ├── 05-sprak.md
-    ├── 06-musikk.md
-    ├── 07-natur.md
-    ├── 08-matematikk.md
-    ├── 09-folelser.md
-    └── 10-rollek.md
+    ├── 01-samarbeid-inkludering-lagleker.md
+    ├── 02-samarbeid-inkludering-fellesskapsleker.md
+    ├── 03-samarbeid-inkludering-bevegelsesleker.md
+    ├── 04-samarbeid-inkludering-kreative-leker.md
+    ├── 05-samarbeid-inkludering-sprakleker.md
+    ├── 06-samarbeid-inkludering-musikkleker.md
+    ├── 07-samarbeid-inkludering-uteleker.md
+    ├── 08-samarbeid-inkludering-matematikkleker.md
+    ├── 09-samarbeid-inkludering-sosiale-leker.md
+    └── 10-samarbeid-inkludering-rolleleker.md
 ```
 
 ## Kategorier
 
 | Fil | Aktivitetstype | Typisk bruk |
 | --- | --- | --- |
-| [01-samarbeid.md](aktiviteter/01-samarbeid.md) | Samarbeid | Når gruppa trenger å øve på å dele, vente og bli enige |
-| [02-inkludering.md](aktiviteter/02-inkludering.md) | Inkludering | Når noen står utenfor, eller ved nytt barn i gruppa |
-| [03-bevegelse.md](aktiviteter/03-bevegelse.md) | Bevegelse og grovmotorikk | Når barna trenger å bruke kroppen |
-| [04-kreativitet.md](aktiviteter/04-kreativitet.md) | Kreativitet og finmotorikk | Formiddagsaktivitet ved bordet |
-| [05-sprak.md](aktiviteter/05-sprak.md) | Språk og fortelling | Språkstimulering, også for barn med annet morsmål |
-| [06-musikk.md](aktiviteter/06-musikk.md) | Musikk og rytme | Samlingsstund |
-| [07-natur.md](aktiviteter/07-natur.md) | Natur og utelek | Turdager og utetid |
-| [08-matematikk.md](aktiviteter/08-matematikk.md) | Matematikk og logikk | Tall, former og mønstre i hverdagen |
-| [09-folelser.md](aktiviteter/09-folelser.md) | Følelser og sosial kompetanse | Når det har vært konflikter, eller som fast rutine |
-| [10-rollek.md](aktiviteter/10-rollek.md) | Rollek og fantasi | Frilek som trenger litt voksenstøtte |
+| [01-samarbeid-inkludering-lagleker.md](aktiviteter/01-samarbeid-inkludering-lagleker.md) | Lagleker | Når gruppa trenger å øve på å dele, vente og bli enige |
+| [02-samarbeid-inkludering-fellesskapsleker.md](aktiviteter/02-samarbeid-inkludering-fellesskapsleker.md) | Fellesskapsleker | Når noen står utenfor, eller ved nytt barn i gruppa |
+| [03-samarbeid-inkludering-bevegelsesleker.md](aktiviteter/03-samarbeid-inkludering-bevegelsesleker.md) | Bevegelsesleker | Når barna trenger å bruke kroppen |
+| [04-samarbeid-inkludering-kreative-leker.md](aktiviteter/04-samarbeid-inkludering-kreative-leker.md) | Kreative leker | Formiddagsaktivitet ved bordet |
+| [05-samarbeid-inkludering-sprakleker.md](aktiviteter/05-samarbeid-inkludering-sprakleker.md) | Språkleker | Språkstimulering, også for barn med annet morsmål |
+| [06-samarbeid-inkludering-musikkleker.md](aktiviteter/06-samarbeid-inkludering-musikkleker.md) | Musikleker | Samlingsstund |
+| [07-samarbeid-inkludering-uteleker.md](aktiviteter/07-samarbeid-inkludering-uteleker.md) | Uteleker | Turdager og utetid |
+| [08-samarbeid-inkludering-matematikkleker.md](aktiviteter/08-samarbeid-inkludering-matematikkleker.md) | Matematikk- og logikkleker | Tall, former og mønstre i hverdagen |
+| [09-samarbeid-inkludering-sosiale-leker.md](aktiviteter/09-samarbeid-inkludering-sosiale-leker.md) | Sosiale leker | Når det har vært konflikter, eller som fast rutine |
+| [10-samarbeid-inkludering-rolleleker.md](aktiviteter/10-samarbeid-inkludering-rolleleker.md) | Rolleleker | Frilek som trenger litt voksenstøtte |
 
 ## Slik bruker du aktivitetene
 

@@ -1,6 +1,6 @@
-# Samarbeid
+# Lagleker
 
-**Aktivitetstype:** Samarbeidsleker
+**Aktivitetstype:** Lagleker
 
 **Fokus:** Samarbeid og inkludering
 

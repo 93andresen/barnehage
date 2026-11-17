@@ -72,3 +72,17 @@ filenames looks like its one?
 
 ONLY ONE OF THE ACTUAL FILES with 10 leker WILL BE PICKED!
 
+---
+
+so each of the 10 files needs to have 2 focuses also in the filenames as well as in the file with all the same structure so 5 leker for 3-4 year oolds and 5 leker for 4-5 year olds!
+
+please!?? this is important for my friends job and the kids at his job!
+
+---
+
+so each of the 10 files needs to have 2 focuses also in the filenames as well as in the file with all the same structure so 5 leker for 3-4 year oolds and 5 leker for 4-5 year olds!
+
+please!?? this is important for my friends job and the kids at his job!
+
+---
+

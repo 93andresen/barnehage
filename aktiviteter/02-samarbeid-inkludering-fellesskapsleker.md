@@ -1,6 +1,6 @@
-# Inkludering
+# Fellesskapsleker
 
-**Aktivitetstype:** Inkluderingsleker
+**Aktivitetstype:** Fellesskapsleker
 
 **Fokus:** Samarbeid og inkludering
 
