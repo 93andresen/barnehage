@@ -60,3 +60,15 @@ det er profesjonelt. det er leker sombarna i barnehagen faktisk kommer til √• m√
 
 fill in the rest of my prompts in C:\_\code\repo\barnehage\task.md that I have forgotten to paste there
 
+---
+
+hvor make fokuser er det pr. 10 leker?
+
+---
+
+filenames looks like its one?
+
+---
+
+ONLY ONE OF THE ACTUAL FILES with 10 leker WILL BE PICKED!
+

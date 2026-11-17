@@ -14,6 +14,18 @@ Repoet er tenkt som et planleggingsverktøy for ansatte i barnehage – ikke som
 - Hver aktivitet beskriver **mål**, **materialer**, **gjennomføring**, **hvordan den fremmer samarbeid og inkludering**, og et **tips**.
 - Alle aktivitetene er utformet slik at de ikke kan «vinnes» av ett barn alene.
 
+## Ti alternative sett
+
+De 10 filene i `aktiviteter/` er **10 alternative sett** med 10 leker hver. Bare ett av settene skal brukes – velg det som passer barnegruppa best.
+
+Alle settene oppfyller de samme kravene:
+
+- 10 leker
+- 5 for yngre (3–4 år) og 5 for eldre (4–5 år)
+- to fokus: **samarbeid** og **inkludering**
+
+Det som skiller settene er **aktivitetstypen**, ikke fokusene. Filnavnet viser aktivitetstypen for settet, og de to fokusene er de samme i alle ti settene.
+
 ## Struktur
 
 ```
